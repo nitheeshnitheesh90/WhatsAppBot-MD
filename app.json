@@ -1,6 +1,6 @@
 
 {
-	"name": "WhatsAppBot-MD",
+	"name": "🕊️ NITHEESH 🕊️",
 	"description": "Fully Costamisable Bot by, Alien-Alfa.",
 	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
@@ -11,7 +11,7 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "0,447405935255"
+            "value": "919656593170"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -36,12 +36,12 @@
 	"STICKER_PACK": {
             "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ,ＡＬＦＡ"
+            "value": "_swag_.sir_👻"
         }, 
     "URLBUTTON1": {
             "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
             "required": false,
-            "value": "nill,nill"
+            "value": "https://instagram.com/_swag_.sir_?igshid=YmMyMTA2M2Y="
         },
     "URLBUTTON2": {
             "description": "Second URL Button Name and link (leave it if you Wish to use the default:YouTube)",
@@ -71,7 +71,7 @@
     "SUDO": {
             "description": "Add superuser to this bot",
             "required": false,
-            "value": "0,447405935255"
+            "value": "919656593170"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -81,12 +81,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "_swag_.sir_🙃"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "_swag_.sir_🙂"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -111,17 +111,17 @@
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://instagram.com/_swag_.sir_?igshid=YmMyMTA2M2Y="
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "🕊️ NITHEESH 🕊️"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "_swag_.sir_🤍"
         },
     "HEROKU_APP_NAME": {
             "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
@@ -148,7 +148,7 @@
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false,
-            "value": "Alfa"
+            "value": "swag sir"
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
